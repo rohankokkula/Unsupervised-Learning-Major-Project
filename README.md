@@ -1,4 +1,24 @@
-# Verzeo's Pro-degree Data Science Major Project
 <p align="center">
     <img src="/slides/Slide1.PNG">
+    <img src="/slides/Slide2.PNG">
+    <img src="/slides/Slide3.PNG">
+    <img src="/slides/Slide4.PNG">
+    <img src="/slides/Slide5.PNG">
+    <img src="/slides/Slide6.PNG">
+    <img src="/slides/Slide7.PNG">
+    <img src="/slides/Slide8.PNG">
+    <img src="/slides/Slide9.PNG">
+    <img src="/slides/Slide10.PNG">
+    <img src="/slides/Slide11.PNG">
+    <img src="/slides/Slide12.PNG">
+    <img src="/slides/Slide13.PNG">
+    <img src="/slides/Slide14.PNG">
+    <img src="/slides/Slide15.PNG">
+    <img src="/slides/Slide16.PNG">
+    <img src="/slides/Slide17.PNG">
+    <img src="/slides/Slide18.PNG">
+    <img src="/slides/Slide19.PNG">
+    <img src="/slides/Slide20.PNG">
+    <img src="/slides/Slide21.PNG">
+    <img src="/slides/Slide22.PNG">
 </p>
